@@ -9,7 +9,7 @@ Bncr 是对接Bncr无界机器人框架，xxxbot-pad只支持文本。兼容xxxb
 1. 将插件文件夹复制到机器人的 `plugins` 目录下
 2. 修改 `config.toml` 中的配置
 3. 重启机器人
-
+依赖问题查看机器人日志安装依赖
 无界插件配置
 使用xxxbot-pad上报地址:http://127.0.0.1:9000/VXAPI
 使用XYBotV2或者xxxbot上报地址:http://127.0.0.1:9090
