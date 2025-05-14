@@ -10,8 +10,8 @@ import tomllib
 
 class Bncr(PluginBase):
     description = "Bncr"
-    author = "网络人"
-    version = "1.0.0"
+    author = "sxkiss"
+    version = "1.0.1"
 
     def __init__(self):
         super().__init__()

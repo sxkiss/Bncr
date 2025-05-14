@@ -30,6 +30,6 @@ base_url = "http://127.0.0.1:8080/api/bot/xx"
 
 ## 开发者信息
 
-- 版本: 1.0.0
+- 版本: 1.0.1
 - 作者: sxkiss
 - 基于: Bncr API
