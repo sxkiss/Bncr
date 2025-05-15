@@ -10,18 +10,17 @@ Bncr 是对接Bncr无界机器人框架，xxxbot-pad只支持文本。兼容xxxb
 2. 修改 `config.toml` 中的配置
 3. 重启机器人
 依赖问题查看机器人日志安装依赖
-无界插件配置 xxxbot-pad复制xx.js到无界适配器目录设置上报地址。
-使用XYBotV2或者xxxbot复制XYBotV2.js到无界适配器目录设置上报地址。
+无界插件配置
 使用xxxbot-pad上报地址:http://127.0.0.1:9000/VXAPI
 使用XYBotV2或者xxxbot上报地址:http://127.0.0.1:9090
 ### 基本配置
 
 ```toml
-主要配置 发送到无界
-XYBotV2或者xxxBot配置，无界市场安装XYBotV2适配器或者复制XYBotV2.js到无界适配器目录
+主要配置 接收
+XYBotV2或者xxxBot配置，无界市场安装XYBotV2适配器
 base_url = "http://127.0.0.1:8080/api/bot/XYBotV2"
 
-xxxbot-pad配置，插件目录复制xx.js到无界适配器插件目录
+xxxbot-pad配置，插件目录复制xx到无界适配器插件目录
 
 base_url = "http://127.0.0.1:8080/api/bot/xx"
 ```
