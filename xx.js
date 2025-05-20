@@ -6,7 +6,7 @@
  * @name xx
  * @team sxkiss
  * @version 1.0.2
- * @description xx适配器  (精简版 - 仅支持文本/图片消息)
+ * @description xx适配器 (精简版 - 仅支持文本/图片消息)
  * @adapter true
  * @public true
  * @disable false
