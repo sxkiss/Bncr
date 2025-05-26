@@ -1,7 +1,7 @@
-httpx>=0.23.0
-websockets>=10.4
-requests>=2.28.0
-loguru>=0.6.0
-filetype>=1.2.0
-# Python 3.10 需额外安装 tomli 以支持 tomllib
-# tomli>=2.0.1; python_version<'3.11' 
+logging
+filetype
+aiohttp
+traceback
+tomllib
+re
+json

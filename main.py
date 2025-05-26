@@ -18,11 +18,11 @@ class Bncr(PluginBase):
     """
     @classdesc Bncr 插件主类
     @author sxkiss
-    @version 1.0.3
+    @version 1.0.4
     """
     description = "Bncr插件"
     author = "sxkiss"
-    version = "1.0.3"
+    version = "1.0.4"
 
     def __init__(self):
         """
